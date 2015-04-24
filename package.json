@@ -1,0 +1,11 @@
+{
+  "name": "nodespider",
+  "version": "0.0.1",
+  "dependencies": {
+    "simplecrawler": "*",
+    "elasticsearch": "^4.0.0",
+    "htmlparser": "*",
+    "jsdom":"^3.1.2",
+    "async":"*"
+  }
+}
